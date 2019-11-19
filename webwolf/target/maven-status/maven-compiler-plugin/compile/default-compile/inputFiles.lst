@@ -1,0 +1,16 @@
+/home/user/WebGoat-local/webwolf/src/main/java/org/owasp/webwolf/user/UserService.java
+/home/user/WebGoat-local/webwolf/src/main/java/org/owasp/webwolf/user/UserValidator.java
+/home/user/WebGoat-local/webwolf/src/main/java/org/owasp/webwolf/WebWolf.java
+/home/user/WebGoat-local/webwolf/src/main/java/org/owasp/webwolf/requests/LandingPage.java
+/home/user/WebGoat-local/webwolf/src/main/java/org/owasp/webwolf/WebSecurityConfig.java
+/home/user/WebGoat-local/webwolf/src/main/java/org/owasp/webwolf/user/WebGoatUser.java
+/home/user/WebGoat-local/webwolf/src/main/java/org/owasp/webwolf/user/RegistrationController.java
+/home/user/WebGoat-local/webwolf/src/main/java/org/owasp/webwolf/mailbox/Email.java
+/home/user/WebGoat-local/webwolf/src/main/java/org/owasp/webwolf/mailbox/MailboxController.java
+/home/user/WebGoat-local/webwolf/src/main/java/org/owasp/webwolf/FileServer.java
+/home/user/WebGoat-local/webwolf/src/main/java/org/owasp/webwolf/mailbox/MailboxRepository.java
+/home/user/WebGoat-local/webwolf/src/main/java/org/owasp/webwolf/user/UserRepository.java
+/home/user/WebGoat-local/webwolf/src/main/java/org/owasp/webwolf/user/UserForm.java
+/home/user/WebGoat-local/webwolf/src/main/java/org/owasp/webwolf/MvcConfiguration.java
+/home/user/WebGoat-local/webwolf/src/main/java/org/owasp/webwolf/requests/WebWolfTraceRepository.java
+/home/user/WebGoat-local/webwolf/src/main/java/org/owasp/webwolf/requests/Requests.java

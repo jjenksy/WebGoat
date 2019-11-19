@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="org.owasp.webgoat.jwt.JWTVotesEndpointTest" time="0.295" tests="11" errors="0" skipped="0" failures="0">
+  <properties/>
+  <testcase name="guestShouldNotGetAToken" classname="org.owasp.webgoat.jwt.JWTVotesEndpointTest" time="0.014"/>
+  <testcase name="invalidTokenShouldSeeGuestView" classname="org.owasp.webgoat.jwt.JWTVotesEndpointTest" time="0.038"/>
+  <testcase name="tomShouldGetAToken" classname="org.owasp.webgoat.jwt.JWTVotesEndpointTest" time="0.01"/>
+  <testcase name="solveAssignment" classname="org.owasp.webgoat.jwt.JWTVotesEndpointTest" time="0.029"/>
+  <testcase name="tomShouldSeeNumberOfVotes" classname="org.owasp.webgoat.jwt.JWTVotesEndpointTest" time="0.017"/>
+  <testcase name="resetWithoutTokenShouldNotWork" classname="org.owasp.webgoat.jwt.JWTVotesEndpointTest" time="0.022"/>
+  <testcase name="unknownUserWithValidTokenShouldNotBeAbleToVote" classname="org.owasp.webgoat.jwt.JWTVotesEndpointTest" time="0.013"/>
+  <testcase name="tomShouldBeAbleToVote" classname="org.owasp.webgoat.jwt.JWTVotesEndpointTest" time="0.106"/>
+  <testcase name="guestShouldNotBeAbleToVote" classname="org.owasp.webgoat.jwt.JWTVotesEndpointTest" time="0.009"/>
+  <testcase name="unknownUserShouldSeeGuestView" classname="org.owasp.webgoat.jwt.JWTVotesEndpointTest" time="0.01"/>
+  <testcase name="guestShouldNotSeeNumberOfVotes" classname="org.owasp.webgoat.jwt.JWTVotesEndpointTest" time="0.007"/>
+</testsuite>

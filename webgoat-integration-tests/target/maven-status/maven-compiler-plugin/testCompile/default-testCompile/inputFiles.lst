@@ -1,0 +1,13 @@
+/home/user/WebGoat-local/webgoat-integration-tests/src/test/java/org/owasp/webgoat/DeserializationTest.java
+/home/user/WebGoat-local/webgoat-integration-tests/src/test/java/org/owasp/webgoat/SqlInjectionLessonTest.java
+/home/user/WebGoat-local/webgoat-integration-tests/src/test/java/org/owasp/webgoat/SqlInjectionAdvancedTest.java
+/home/user/WebGoat-local/webgoat-integration-tests/src/test/java/org/owasp/webgoat/ProgressRaceConditionTest.java
+/home/user/WebGoat-local/webgoat-integration-tests/src/test/java/org/owasp/webgoat/SqlInjectionMitigationTest.java
+/home/user/WebGoat-local/webgoat-integration-tests/src/test/java/org/owasp/webgoat/XXETest.java
+/home/user/WebGoat-local/webgoat-integration-tests/src/test/java/org/owasp/webgoat/XSSTest.java
+/home/user/WebGoat-local/webgoat-integration-tests/src/test/java/org/owasp/webgoat/PasswordResetLessonTest.java
+/home/user/WebGoat-local/webgoat-integration-tests/src/test/java/org/owasp/webgoat/WebWolfTest.java
+/home/user/WebGoat-local/webgoat-integration-tests/src/test/java/org/owasp/webgoat/CSRFTest.java
+/home/user/WebGoat-local/webgoat-integration-tests/src/test/java/org/owasp/webgoat/IntegrationTest.java
+/home/user/WebGoat-local/webgoat-integration-tests/src/test/java/org/owasp/webgoat/GeneralLessonTest.java
+/home/user/WebGoat-local/webgoat-integration-tests/src/test/java/org/owasp/webgoat/JWTLessonTest.java
