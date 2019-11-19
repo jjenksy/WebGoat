@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f723ba6-57be-40ea-96fd-fc526b45df6c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/webgoat-server/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/webgoat-server/Dockerfile" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -78,7 +79,14 @@
       <option name="project" value="LOCAL" />
       <updated>1574181047457</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="update webgoat Dockerfile">
+      <created>1574181804471</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1574181804471</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -99,6 +107,7 @@
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="added target folders for docker build" />
     <MESSAGE value="change copy command" />
-    <option name="LAST_COMMIT_MESSAGE" value="change copy command" />
+    <MESSAGE value="update webgoat Dockerfile" />
+    <option name="LAST_COMMIT_MESSAGE" value="update webgoat Dockerfile" />
   </component>
 </project>

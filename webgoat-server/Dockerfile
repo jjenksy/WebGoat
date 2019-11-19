@@ -6,9 +6,10 @@ RUN \
   apt-get update && apt-get install && \
   useradd --home-dir /home/webgoat --create-home -U webgoat
 
+
 USER webgoat
 RUN cd /home/webgoat/; mkdir -p .webgoat-server-v8.0.0.M26
-COPY target/webgoat-server-v8.0.0.M26.jar /home/webgoat/webgoat.jar
+COPY webgoat-server/target/webgoat-server-v8.0.0.M26.jar /home/webgoat/webgoat.jar
 
 EXPOSE 8080
 
