@@ -7,7 +7,7 @@ RUN \
   useradd --home-dir /home/webgoat --create-home -U webgoat
 
 USER webgoat
-RUN cd /home/webgoat/; mkdir -p .webgoat-${webgoat_version}
+RUN cd /home/webgoat/; mkdir -p .webgoat-server-v8.0.0.M26
 COPY target/webgoat-server-v8.0.0.M26.jar /home/webgoat/webgoat.jar
 
 EXPOSE 8080
